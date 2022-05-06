@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /*
+
+Allow: /_dig/
+Disallow: /_dig/*
+
+Disallow: /!acc/*
